@@ -6,3 +6,7 @@ Britta needs to gather data from both Wikipedia and Kaggle, combine them, and sa
 
 ### Resources
 Software: Jupyter Notebook; pgADMIN
+
+### Assumptions
+
+Assumptions being made are related to popularity scores, revenues, budget and profit for movies.
